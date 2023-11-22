@@ -7,3 +7,5 @@ Data: https://drive.google.com/drive/folders/1PpdNJHw9KYpY6kczmeGsFLRfaeCq65gK?u
 * GNN_MuonE_v1_Robust_mc-recon_comparison.ipynb - program for tracking in 2D created by students in 2020
 * presentation_wolter.pdf - few interesting links
 * FitToStrips.ipynb - short code making a straight line (not *yet* robust) fit to a set of arbitrary strips (straight lines) in 3D
+* GNN_MuonE_v1_trackFindingOnly.ipynb - example of GNN performing pattern recognition in 3D using strip hits (M. Wolter 22.11.23)
+* GNN_real_data.ipynb - similar task (Damian, 22.11.23)
